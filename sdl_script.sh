@@ -1,3 +1,5 @@
+#Code by Christo
+
 #! /bin/bash
 
 args=("$@")
